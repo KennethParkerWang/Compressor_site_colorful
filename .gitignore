@@ -1,0 +1,15 @@
+node_modules/
+build/
+.docusaurus/
+
+*.log
+build-output.log
+build-v3.log
+dev-output.log
+serve-output.log
+serve-err.log
+serve-v3.log
+
+.idea/
+.vscode/
+tsconfig.tsbuildinfo
