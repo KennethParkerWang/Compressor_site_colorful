@@ -1,9 +1,9 @@
 {
-  "refreshedAt": "2026-08-03",
+  "refreshedAt": "2026-08-04",
   "sources": {
     "ltcb": "http://mattmahoney.net/dc/text.html",
     "silesia": "http://mattmahoney.net/dc/silesia.html",
-    "hutter": null,
+    "hutter": "http://prize.hutter1.net/",
     "clic015": "https://clic2025.compression.cc/leaderboard/image_0_15/test/",
     "clic0075": "https://clic2025.compression.cc/leaderboard/image_0_075/test/"
   },
@@ -122,6 +122,48 @@
         "metricShort": "28280021",
         "lowerIsBetter": true,
         "sourceUrl": "http://mattmahoney.net/dc/silesia.html"
+      }
+    ],
+    "hutter": [
+      {
+        "method": "? (Hutter, You?)",
+        "year": 2024,
+        "metric": "109.69 MB",
+        "metricShort": "109685197",
+        "lowerIsBetter": true,
+        "sourceUrl": "http://prize.hutter1.net/"
+      },
+      {
+        "method": "fx2-cmix (Hutter, Kaido Orav & Byron Knoll)",
+        "year": 2024,
+        "metric": "110.79 MB",
+        "metricShort": "110793128",
+        "lowerIsBetter": true,
+        "sourceUrl": "http://prize.hutter1.net/"
+      },
+      {
+        "method": "fx-cmix (Hutter, Kaido Orav)",
+        "year": 2024,
+        "metric": "112.58 MB",
+        "metricShort": "112578322",
+        "lowerIsBetter": true,
+        "sourceUrl": "http://prize.hutter1.net/"
+      },
+      {
+        "method": "fast cmix (Hutter, Saurabh Kumar)",
+        "year": 2023,
+        "metric": "114.16 MB",
+        "metricShort": "114156155",
+        "lowerIsBetter": true,
+        "sourceUrl": "http://prize.hutter1.net/"
+      },
+      {
+        "method": "starlit (Hutter, Artemiy Margaritov)",
+        "year": 2021,
+        "metric": "115.35 MB",
+        "metricShort": "115352938",
+        "lowerIsBetter": true,
+        "sourceUrl": "http://prize.hutter1.net/"
       }
     ],
     "clic_image_0_15": [
