@@ -1,11 +1,11 @@
 {
-  "refreshedAt": "2026-09-23",
+  "refreshedAt": "2026-09-24",
   "sources": {
     "ltcb": "http://mattmahoney.net/dc/text.html",
     "silesia": "http://mattmahoney.net/dc/silesia.html",
     "hutter": "http://prize.hutter1.net/",
-    "clic015": null,
-    "clic0075": null
+    "clic015": "https://clic2025.compression.cc/leaderboard/image_0_15/test/",
+    "clic0075": "https://clic2025.compression.cc/leaderboard/image_0_075/test/"
   },
   "boards": {
     "enwik9_mahoney": [
@@ -165,6 +165,8 @@
         "lowerIsBetter": true,
         "sourceUrl": "http://prize.hutter1.net/"
       }
-    ]
+    ],
+    "clic_image_0_15": [],
+    "clic_image_0_075": []
   }
 }
