@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-09-29",
+  "refreshedAt": "2026-09-30",
   "sources": {
     "ltcb": "http://mattmahoney.net/dc/text.html",
     "silesia": "http://mattmahoney.net/dc/silesia.html",
@@ -76,6 +76,14 @@
     ],
     "silesia": [
       {
+        "method": "paq8px_v217 -12L",
+        "year": 2026,
+        "metric": "27.68 MB",
+        "metricShort": "27682006",
+        "lowerIsBetter": true,
+        "sourceUrl": "http://mattmahoney.net/dc/silesia.html"
+      },
+      {
         "method": "paq8px_v215 -12L",
         "year": 2026,
         "metric": "27.83 MB",
@@ -112,14 +120,6 @@
         "year": 2026,
         "metric": "28.26 MB",
         "metricShort": "28261094",
-        "lowerIsBetter": true,
-        "sourceUrl": "http://mattmahoney.net/dc/silesia.html"
-      },
-      {
-        "method": "paq8px_v206 -12TR",
-        "year": 2026,
-        "metric": "28.28 MB",
-        "metricShort": "28280021",
         "lowerIsBetter": true,
         "sourceUrl": "http://mattmahoney.net/dc/silesia.html"
       }
