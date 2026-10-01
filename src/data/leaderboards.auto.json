@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-09-30",
+  "refreshedAt": "2026-10-01",
   "sources": {
     "ltcb": "http://mattmahoney.net/dc/text.html",
     "silesia": "http://mattmahoney.net/dc/silesia.html",
@@ -128,8 +128,32 @@
       {
         "method": "? (Hutter, You?)",
         "year": 2024,
-        "metric": "109.69 MB",
-        "metricShort": "109685197",
+        "metric": "99.42 MB",
+        "metricShort": "99420425",
+        "lowerIsBetter": true,
+        "sourceUrl": "http://prize.hutter1.net/"
+      },
+      {
+        "method": "fx2-cmix-T (Hutter, Vladimir Ivanov)",
+        "year": 2026,
+        "metric": "100.42 MB",
+        "metricShort": "100424672",
+        "lowerIsBetter": true,
+        "sourceUrl": "http://prize.hutter1.net/"
+      },
+      {
+        "method": "cmix-obias (Hutter, David Freelan)",
+        "year": 2026,
+        "metric": "108.52 MB",
+        "metricShort": "108521870",
+        "lowerIsBetter": true,
+        "sourceUrl": "http://prize.hutter1.net/"
+      },
+      {
+        "method": "cmix-lex (Hutter, Ibrahim Marcouch & Kaido Orav)",
+        "year": 2026,
+        "metric": "109.67 MB",
+        "metricShort": "109671639",
         "lowerIsBetter": true,
         "sourceUrl": "http://prize.hutter1.net/"
       },
@@ -138,30 +162,6 @@
         "year": 2024,
         "metric": "110.79 MB",
         "metricShort": "110793128",
-        "lowerIsBetter": true,
-        "sourceUrl": "http://prize.hutter1.net/"
-      },
-      {
-        "method": "fx-cmix (Hutter, Kaido Orav)",
-        "year": 2024,
-        "metric": "112.58 MB",
-        "metricShort": "112578322",
-        "lowerIsBetter": true,
-        "sourceUrl": "http://prize.hutter1.net/"
-      },
-      {
-        "method": "fast cmix (Hutter, Saurabh Kumar)",
-        "year": 2023,
-        "metric": "114.16 MB",
-        "metricShort": "114156155",
-        "lowerIsBetter": true,
-        "sourceUrl": "http://prize.hutter1.net/"
-      },
-      {
-        "method": "starlit (Hutter, Artemiy Margaritov)",
-        "year": 2021,
-        "metric": "115.35 MB",
-        "metricShort": "115352938",
         "lowerIsBetter": true,
         "sourceUrl": "http://prize.hutter1.net/"
       }
